@@ -33,6 +33,8 @@ If I was a hiring manager and saw this commit history, it would tell them that y
 
 2. Describe in 2–3 sentences how using Git changes (or should change) how you approach making edits to a working script. What would you do differently now compared to before this module?
 
-
+Before using Git, making edits to a working script often meant making sure they are saved. With Git, you can experiment freely and test new ideas because you always have the option to go back and view your past code.
 
 3. What is one thing you would add to your .gitignore that is specific to your own machine or workflow that was not in the starter template? Why should that file not be tracked?
+
+I would project notes to my .gitignore file if I were working on a team project in the workplace. It shouldn't be tracked so that my notes aren't shared with my coworkers.
